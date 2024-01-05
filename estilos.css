@@ -1,0 +1,35 @@
+body{
+  background-image:url(fundo.png);
+}
+h1{
+  position: absolute;
+  bottom: 400px;
+  left: 90px;
+  
+  font-size: 80px;
+  color: papayawhip;
+}
+
+#d1{
+  position: absolute;
+  left: 90px;
+  bottom: 450px;
+  height: 00px;
+  
+}
+
+#d2{
+  position: absolute;
+  left: 90px;
+  bottom: 350px;
+}
+
+#bt{
+  position: absolute;
+  left: 106px;
+  bottom: 290px;
+  border-radius: 30px;
+  font-size: 30px;
+  height: 50px;
+  
+}
